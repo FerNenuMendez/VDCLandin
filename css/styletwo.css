@@ -97,7 +97,7 @@ header {
 
 /* ============= 3. SLIDER AREA ============= */
 .hero-area {
-  background-image: url(../img/resources/FotoCamiones/Este1.svg);
+  background-image: url(../img/resources/FotoCamiones/c4.svg);
   background-size: cover;
   background-position: center center;
   height: 100vh;
@@ -122,14 +122,14 @@ header {
   height: 100%;
 }
 .slider h1 {
-  color: #fff;
+  color: black;
   margin-bottom: 20px;
   text-transform: capitalize;
-  text-shadow: 1px 2px black;
+  text-shadow: 1px 2px whitesmoke;
 }
 .slider p {
   color: #fff;
-  font-size: 18px;
+  font-size: 22px;
   margin: 0 0 35px;
   padding-right: 28%;
   text-shadow: 1px 1px black;
@@ -507,9 +507,8 @@ header {
   margin-bottom: 65px;
 }
 .single-address i {
-  color: rgb(240, 239, 239);
-  text-shadow: transparent 1px 1px black;
-
+  color: black;
+  text-shadow: transparent 1px 1px whitesmoke;
   display: block;
   font-size: 36px;
   line-height: 50px;
@@ -520,9 +519,8 @@ header {
   position: absolute;
 }
 .single-address p {
-  color: #f4f0f0;
+  color: black;
   font-weight: 800;
-  text-shadow: 1px 1px rgb(14, 14, 14);
   margin: 0;
 }
 .conct-border {
